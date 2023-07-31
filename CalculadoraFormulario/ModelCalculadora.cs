@@ -27,6 +27,16 @@ namespace CalculadoraFormulario
         public double Subtrair(double num)
         {
             return ConsultarOperacao -= num;
+        }//fim do subtrair
+
+        public double Dividir(double num)
+        {
+            return ConsultarOperacao /= num;
+        }//fim do somar
+
+        public double Multiplicar(double num)
+        {
+            return ConsultarOperacao *= num;
         }//fim do somar
     }//fim da classe
 }//fim do projeto 
