@@ -1,0 +1,11 @@
+C:\Users\allan.ssilva4\source\repos\CalculadoraFormulario\CalculadoraFormulario\bin\Debug\CalculadoraFormulario.exe.config
+C:\Users\allan.ssilva4\source\repos\CalculadoraFormulario\CalculadoraFormulario\bin\Debug\CalculadoraFormulario.exe
+C:\Users\allan.ssilva4\source\repos\CalculadoraFormulario\CalculadoraFormulario\bin\Debug\CalculadoraFormulario.pdb
+C:\Users\allan.ssilva4\source\repos\CalculadoraFormulario\CalculadoraFormulario\obj\Debug\CalculadoraFormulario.csproj.AssemblyReference.cache
+C:\Users\allan.ssilva4\source\repos\CalculadoraFormulario\CalculadoraFormulario\obj\Debug\CalculadoraFormulario.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.ssilva4\source\repos\CalculadoraFormulario\CalculadoraFormulario\obj\Debug\CalculadoraFormulario.Form1.resources
+C:\Users\allan.ssilva4\source\repos\CalculadoraFormulario\CalculadoraFormulario\obj\Debug\CalculadoraFormulario.Properties.Resources.resources
+C:\Users\allan.ssilva4\source\repos\CalculadoraFormulario\CalculadoraFormulario\obj\Debug\CalculadoraFormulario.csproj.GenerateResource.cache
+C:\Users\allan.ssilva4\source\repos\CalculadoraFormulario\CalculadoraFormulario\obj\Debug\CalculadoraFormulario.csproj.CoreCompileInputs.cache
+C:\Users\allan.ssilva4\source\repos\CalculadoraFormulario\CalculadoraFormulario\obj\Debug\CalculadoraFormulario.exe
+C:\Users\allan.ssilva4\source\repos\CalculadoraFormulario\CalculadoraFormulario\obj\Debug\CalculadoraFormulario.pdb
